@@ -1,15 +1,15 @@
 from time import sleep
 import sys
 
-string = """ ᴅᴇᴠᴇʟᴏᴘᴇʀ : MONSTER LALLU
+string = """ ᴅᴇᴠᴇʟᴏᴘᴇʀ : CYBER KATTAPPA
 
-ɢɪᴛʜᴜʙ : Monsterlallu
+ɢɪᴛʜᴜʙ : Cyber Kattappa
 
-ɪɴsᴛᴀɢʀᴀᴍ :monster_lallu_official
+ɪɴsᴛᴀɢʀᴀᴍ :cyber_kattappa_official
 
 ᴡᴇʙsɪᴛᴇ : ᴡᴡᴡ.MLᴏғғɪᴄɪᴀʟ.ɢᴀ
 
-ᴇᴍᴀɪʟ : monsterlallu@ɢᴍᴀɪʟ.ᴄᴏᴍ  """
+ᴇᴍᴀɪʟ : cyberkattappa779@ɢᴍᴀɪʟ.ᴄᴏᴍ  """
 for letter in string:
   sleep(0.01) 
   sys.stdout.write(letter)
