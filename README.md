@@ -1,7 +1,7 @@
-<h1 align="center">ɪͥᴛͭsᷤ ᴍͫᴇͤ☚⃟፝✪͜͡𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐋𝐀𝐋𝐋𝐔≛⃝𝗢𝗚⁩≛⃝🇦🇴𝗦𝗜𝗡𝗖𝗘 2020≛⃝🇦🇴</h1>
+<h1 align="center">ɪͥᴛͭsᷤ ᴍͫᴇͤ☚⃟፝✪͜͡CYBER KATTAPPA≛⃝𝗢𝗚⁩≛⃝🇦🇴𝗦𝗜𝗡𝗖𝗘 2020≛⃝🇦🇴</h1>
 
 <img src="https://www.linkpicture.com/q/PicsArt_08-03-04.14.54.jpg">
-<h1 align="center">❱❱✪C7836✪M0N5TER L4LLU✪❱❱
+<h1 align="center">❱❱✪C7836✪CYBER KATTAPPA✪❱❱
 
 <h1 align="center">cc_sim_crack v.1</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
@@ -75,7 +75,7 @@ ENTER THE COUNT OF SPERM: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 ## CONTRIBUTORS:
 
 - **CYBER CRACKER**<br>
-[-] Mail At:https:monsterlallu@gmail.com
+[-] Mail At:https: cyberkattappa@gmail.com
 
 
 
@@ -87,8 +87,8 @@ ENTER THE COUNT OF SPERM: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 Feel Free To Open An Issue...
 
 ```
-                 Mail:https://github.com/Monsterlallu
-       Instagram account:https://instagram.com/monster_lallu_official?utm_medium=copy_link
+                 Mail:https://github.com/Cyberkattappa779
+       Instagram account:https://instagram.com/cyber_kattappa_official?utm_medium=copy_link
 ```
 
 <a href="https:
